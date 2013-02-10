@@ -1,6 +1,8 @@
 publishcontent
 ==============
 
+####Creates granular publish/unpublish permissions in Drupal without granting Administer Nodes permission.####
+
 Patched version of the Drupal "[Publish Content](http://drupal.org/project/publishcontent)"
 contrib module by [malaussene](http://drupal.org/user/79249).
 
