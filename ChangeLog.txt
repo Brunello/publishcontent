@@ -1,4 +1,3 @@
-NEWLINE
 #1309718 by Thomas_Zahreddin: fixed order of operations in ternary operator in t() call
 
 publishcontent-6.x-1.1 release

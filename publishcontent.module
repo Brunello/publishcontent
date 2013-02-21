@@ -1,6 +1,6 @@
 <?php
 
- echo 'adam';
+/**
  * @file
  * Add button to publish or unpublish a node,
  * with access control based on the node type
