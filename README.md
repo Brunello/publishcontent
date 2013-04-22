@@ -5,6 +5,8 @@ publishcontent
 The patch I provided has been committed. Please use the official version of this module found here:
 http://drupal.org/project/publishcontent
 
+--
+
 ####Creates granular publish/unpublish permissions in Drupal without granting Administer Nodes permission.####
 
 Patched version of the Drupal "[Publish Content](http://drupal.org/project/publishcontent)"
